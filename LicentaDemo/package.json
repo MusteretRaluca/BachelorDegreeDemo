@@ -1,0 +1,26 @@
+{
+  "name": "licenta2",
+  "version": "1.0.0",
+  "description": "Licenta",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RalucaMusteret/Licenta.git"
+  },
+  "keywords": [
+    "licenta"
+  ],
+  "author": "Raluca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RalucaMusteret/Licenta/issues"
+  },
+  "homepage": "https://github.com/RalucaMusteret/Licenta#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "web3": "github:ethereum/web3.js"
+  }
+}
