@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/RalucaMusteret/Licenta#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "web3": "github:ethereum/web3.js"
   }
 }
